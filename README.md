@@ -1,5 +1,9 @@
 # 💫 About Me:
-I currently work at Kyndryl<br>I am a Data Scientist<br>I study Data Science, ML, DL, Gen-AI
+- 🔭 I’m currently working at **Kyndryl**
+- 👨‍💻 I’m a **Data Scientist**
+- 📚 I study and explore **Data Science, Machine Learning, Deep Learning, and Generative AI**
+- 🌱 Passionate about solving problems with data-driven insights and building intelligent systems
+- 💡 Always curious to learn, experiment, and share knowledge with the community
 
 
 ## 🌐 Socials:
